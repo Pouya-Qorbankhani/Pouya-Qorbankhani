@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Pouya-Qorbankhani
+- 👀 I’m interested in programming python and solving complex problem
+- 🌱 I’m currently learning advanced django and everything neede to be a master fullstack
+- 💞️ I’m looking to collaborate on python problems and everything that i can help
+- 📫 How to reach me you can find me by my email: pouya.gh.74@gmail.com
